@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "One",
+      "status": "this is the post status",
+      "body": "this is the post body",
+      "publishedAt": "2020-11-06"
+    },
+    {
+      "id": "2",
+      "title": "Two",
+      "status": "this is the post status",
+      "body": "this is the post body",
+      "publishedAt": "1-1-2020"
+    },
+    {
+      "id": "3",
+      "title": "Three",
+      "status": "this is the post status",
+      "body": "this is the post body",
+      "publishedAt": "1-1-2020"
+    },
+    {
+      "title": "nhac phim",
+      "status": "iiiii",
+      "publishedAt": "2020-11-04",
+      "id": "lHRHHpd"
+    },
+    {
+      "title": "nhac phim",
+      "status": "hhhhhoooo\n",
+      "publishedAt": "2020-12-09",
+      "id": "usR_89y"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ngoc",
+      "email": "ngoc@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "product1",
+      "titlept": "Hộp vuông",
+      "image": "./image/h1.jpg",
+      "price": "900"
+    },
+    {
+      "id": "2",
+      "category": "product1",
+      "titlept": "Hộp trái tim",
+      "image": "./image/h2.jpg",
+      "price": "200"
+    },
+    {
+      "id": "3",
+      "category": "product1",
+      "titlept": "Hộp nơ",
+      "image": "./image/h3.jpg",
+      "price": "200"
+    },
+    {
+      "id": "4",
+      "category": "product1",
+      "titlept": "Hộp trái tim",
+      "image": "./image/h4.jpg",
+      "price": "200"
+    },
+    {
+      "id": "5",
+      "category": "product1",
+      "titlept": "Hộp trái tim",
+      "image": "./image/h5.jpg",
+      "price": "200"
+    }
+  ]
+}
